@@ -1,0 +1,17 @@
+{
+    "extends": [
+        "prettier"
+    ],
+    "plugins": [
+        "prettier"
+    ],
+    "rules": {
+        "prettier/prettier": "error",
+        "react-hooks/rules-of-hooks": "error",
+        "react-hooks/exhaustive-deps": "error",
+        "arrow-body-style": "off",
+        "prefer-arrow-callback": "off",
+        "react/jsx-wrap-multilines": "off",
+        "singleQuote": true
+    }
+}
